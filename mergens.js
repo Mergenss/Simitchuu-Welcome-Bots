@@ -14,4 +14,4 @@ console.log("Bot Başarı İle Sese Girdi")
 
 
 
-client.login("OTczNjAxNzYyOTY5ODA0ODUx.G1V6zV.JULPgsLcYowI4VKAXvcHmTBwPrCbNjG2ZWkuKo")
+client.login("")
