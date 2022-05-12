@@ -4,14 +4,14 @@ const client = new Discord.Client();
 
 
 client.on("ready", () => {
-    client.channels.cache.get("973249213678895137").join();
+    client.channels.cache.get("973249213678895137").join();// Buraya Botun Sese gireceği odanın idsini kopyala yapıştır
 });
 
 client.on("ready", () => {
-    client.user.setActivity("Mergenss  ❤️ Phoenix")
+    client.user.setActivity("Mergenss  ❤️ Phoenix")// buraya botun durumunu ayarla
 console.log("Bot Başarı İle Sese Girdi")
 });
 
 
 
-client.login("")
+client.login("")//buraya tokenini koy 
